@@ -1,4 +1,4 @@
-# JamesWeeb
+# JamesWebb
 Used the James Webb telescope to discover the universe Astronomy and signal analysis is one of my hobbies.
 Astronomy and signal analysis is one of my hobbies. In this repository you have:
 1.-a data inversion with the default MatLab contourn function 2. 
